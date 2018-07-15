@@ -20,4 +20,4 @@ authmagic install authmagic-proxy-plugin
 
 Licence
 -----------
-authmagic-proxy-plugin [MIT licensed](./LICENSE).
+authmagic-proxy-plugin is [MIT licensed](./LICENSE).
