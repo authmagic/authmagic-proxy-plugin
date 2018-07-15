@@ -8,7 +8,7 @@
   },
   "keywords": ["auth", "authentication", "authorization", "openid", "oauth2", "proxy"],
   "author": "Oleksandr Knyga <oleksandrknyga@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.10",
     "request": "^2.85.0",
