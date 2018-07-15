@@ -17,3 +17,7 @@ Check <a href="https://github.com/authmagic/authmagic-cli">authmagic-cli</a>.
 ```
 authmagic install authmagic-proxy-plugin
 ```
+
+Licence
+-----------
+authmagic-proxy-plugin [MIT licensed](./LICENSE).
